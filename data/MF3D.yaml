@@ -1,0 +1,5 @@
+train: /data/miniMF3D/train/images #../data/train/images
+val: /data/miniMF3D/val/images #../data/valid/images
+
+nc: 6
+names: ['People', 'Car', 'Bus', 'Lamp', 'Motorcycle', 'Truck']
